@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+netlink-socket/kernel-space/.cache/clangd/index
+netlink-socket/kernel-space/compile_commands.json
+netlink-socket/userspace/compile_commands.json
